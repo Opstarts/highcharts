@@ -4,6 +4,7 @@ import Highcharts from '../parts/Globals.js';
 
 import '../parts/Html.js';
 import '../parts/PlotLineOrBand.js';
+import '../parts/Axis.js';
 import '../parts/DateTimeAxis.js';
 import '../parts/DataLabels.js';
 import '../parts/Stacking.js';
