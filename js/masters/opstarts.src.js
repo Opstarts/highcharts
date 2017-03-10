@@ -6,13 +6,13 @@ import '../parts/Html.js';
 import '../parts/PlotLineOrBand.js';
 import '../parts/Axis.js';
 import '../parts/DateTimeAxis.js';
-import '../parts/DataLabels.js';
-import '../parts/Stacking.js';
 
 // Dynamics and Interaction
 import '../parts/Tooltip.js';
-import '../parts/Interaction.js';
+import '../parts/Pointer.js';
 import '../parts/TouchPointer.js';
+
+import '../parts/Stacking.js';
 
 // Charts and Serie Types
 import '../parts/AreaSeries.js';
@@ -21,6 +21,9 @@ import '../parts/ColumnSeries.js';
 import '../parts/BarSeries.js';
 import '../parts/PieSeries.js';
 import '../parts-more/WaterfallSeries.js';
+import '../parts/DataLabels.js';
+
+import '../parts/Interaction.js';
 
 // Modules
 import '../modules/exporting.src.js';
