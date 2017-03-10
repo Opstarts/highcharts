@@ -11,8 +11,14 @@ import '../parts/DateTimeAxis.js';
 import '../parts/Tooltip.js';
 import '../parts/Pointer.js';
 import '../parts/TouchPointer.js';
+// import '../parts/MSPointer.js';
 
+import '../parts/Legend.js';
+import '../parts/Chart.js';
+import '../parts/Point.js';
+import '../parts/Series.js';
 import '../parts/Stacking.js';
+import '../parts/Dynamics.js';
 
 // Charts and Serie Types
 import '../parts/AreaSeries.js';
@@ -29,6 +35,5 @@ import '../parts/Interaction.js';
 import '../modules/exporting.src.js';
 import '../modules/offline-exporting.src.js';
 import '../modules/no-data-to-display.src.js';
-// import '../modules/drilldown.src.js';
 
 export default Highcharts;
