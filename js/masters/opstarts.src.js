@@ -29,6 +29,6 @@ import '../parts/Interaction.js';
 import '../modules/exporting.src.js';
 import '../modules/offline-exporting.src.js';
 import '../modules/no-data-to-display.src.js';
-import '../modules/drilldown.src.js';
+// import '../modules/drilldown.src.js';
 
 export default Highcharts;
